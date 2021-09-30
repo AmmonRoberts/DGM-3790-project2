@@ -1,0 +1,21 @@
+.country-card {
+  width: 15em;
+  margin: auto;
+  padding: .5em;
+}
+
+.country-data {
+  height: 200px;
+  cursor: pointer;
+}
+
+.country-data h4 {
+  margin: 5px;
+  font-size: 18px;
+}
+
+.country-data p {
+  margin: 5px;
+  padding-left: 10px;
+  font-size: 14px;
+}
